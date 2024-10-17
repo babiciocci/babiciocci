@@ -1,4 +1,4 @@
-<p align="left">🌱 Atualmente estudando sobre Inteligência Artificial, Aprendizado de máquina e Redes Neurais;</p>
+<p align="left">🌱 Atualmente estudando sobre Inteligência Artificial, Aprendizado de Máquina e Redes Neurais;</p>
 
 ###
 
