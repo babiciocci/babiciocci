@@ -106,9 +106,3 @@ Os resultados mostram que **padrões temporais do olhar** podem ser capturados *
   Depois: Actions → Generate Snake → Run workflow (ou espere o cron diário).
   Na primeira vez o SVG pode 404 até o workflow rodar uma vez.
 -->
-
----
-
-<div align="center">
-  <sub>README inspirado no estilo do <a href="https://github.com/GabrielBalbine/GabrielBalbine">Gabriel Balbine</a> — obrigada pelo layout de referência ✨</sub>
-</div>
