@@ -23,7 +23,7 @@
 
 ## `> whoami`
 
-Sou **Gabriela Molina Ciocci** — graduanda em **Ciência da Computação** no Centro Universitário **FEI** (campus São Bernardo do Campo), com foco em **inteligência artificial**, **aprendizado de máquina** e visão aplicada a dados comportamentais.
+Sou a **Gabriela Molina Ciocci**, graduanda em **Ciência da Computação** na **FEI** (São Bernardo). Curto **IA**, **machine learning** e usar visão em dados de comportamento de verdade.
 
 Estudo **redes neurais**, **processamento de dados** e como modelos sequenciais ajudam a entender padrões reais — do laboratório à rua.
 
